@@ -1,0 +1,86 @@
+.design{
+    color: tomato;
+    font-size: 40px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.peter{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 3%;
+
+}
+.peter img{
+    width: 100%;
+
+}
+.half-width{
+    border: 1px solid red;
+    background-image: url("images/header-bg.png");
+    background-size: 100%;
+}
+section{
+    height: 545px;
+}
+.parker{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.parker img{
+    width: 60%;
+    margin: 2%;
+    padding: 0%;
+}
+.full-width{
+    border: 1px solid red;
+    background-image: url("images/biography-bg.png");
+    background-size: 100%;
+   
+}
+#kha{
+    text-align: center;
+}
+.roman{
+    display: flex;
+    width: 100%;
+}
+.roman img{
+    width: 100%;
+}
+.remon{
+    background-image: url(images/latest-work-bg.png);
+    background-size: 100%;
+    border: 1px solid red;
+}
+.shofiq{
+    text-align: center;
+
+}
+.islam{
+    text-decoration: none;
+    background-image: linear-gradient(180deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.rifat{
+    background-image: url("images/footer-bg.png");
+    background-size: 100%;
+}
+.akash{
+    text-align: center;
+    font-size: 10px;
+}
